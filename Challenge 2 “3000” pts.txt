@@ -1,0 +1,14 @@
+Desired output: Apply changes ONLY to the first 2 lines of code so that it prints “Correct”
+
+
+###
+x = [5, 1, 7, 0, 3, 4, 7]
+a = x.indexof(7)
+b = 5
+if a < b:
+    print("Try Again")
+elif a > b:
+    print("Correct")
+else:
+    print("ABCD")
+###
